@@ -186,7 +186,7 @@ Handles reversal of the singly linked list.
 
 Compiled all source files together using:
 
-    gcc stud_main.c stud_add.c stud_del.c stud_show.c stud_mod.c stud_save.c stud_sort.c stud_reverse.c -o student
+    cc stud_main.c stud_add.c stud_del.c stud_show.c stud_mod.c stud_save.c stud_sort.c stud_reverse.c -o student
 
 ### Run
 
